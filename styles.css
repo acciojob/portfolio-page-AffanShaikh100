@@ -3,7 +3,7 @@
 *{
 	margin:0px;
 	padding:0px;
-	background-image: linear-gradient( to right, #ffe259 ,#ffa751);
+	
 	text-decoration: none;
 }
 .one{
@@ -12,6 +12,7 @@
 	justify-content: space-around;
 	margin:20px;
 	margin-top:40px;
+	background-image: linear-gradient( to right, #ffe259 ,#ffa751);
 }
 
 .two{
@@ -26,4 +27,7 @@
 .mission{
 	margin:30px;
 	padding-left:40px;
+}
+h1{
+	
 }
