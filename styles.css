@@ -3,8 +3,9 @@
 *{
 	margin:0px;
 	padding:0px;
-	
 	text-decoration: none;
+	background-color: aqua;
+	
 }
 .one{
 	display:flex;
@@ -18,6 +19,7 @@
 .two{
 	margin:20px;
 	padding-left:40px;
+	
 }
 
 .power{
@@ -29,5 +31,5 @@
 	padding-left:40px;
 }
 h1{
-	
+	background-image: linear-gradient( to right, #ffe259 ,#ffa751);
 }
