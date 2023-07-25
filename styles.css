@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+	background-image: linear-gradient( to right, #ffe259 ,#ffa751);
+	text-decoration: none;
+}
+.one{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	margin:20px;
+	margin-top:40px;
+}
+
+.two{
+	margin:20px;
+	padding-left:40px;
+}
+
+.power{
+	margin:30px;
+	padding-left:40px;
+}
+.mission{
+	margin:30px;
+	padding-left:40px;
+}
